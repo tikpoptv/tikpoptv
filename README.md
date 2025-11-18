@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==============================================================================================================================
 
 * 🌍  I'm based in Thailand
-* 🖥️  See my portfolio at [Phitik.com](http://phitik.com)
+* 🖥️  See my portfolio at [Phitik.com](https://www.phitik.com)
 * ✉️  You can contact me at [tik.jedsdp@gmail.com](mailto:tik.jedsdp@gmail.com)
 
 
